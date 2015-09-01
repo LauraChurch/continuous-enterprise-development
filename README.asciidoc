@@ -1,3 +1,5 @@
+<html>
+<body>
 An enterprise application is a business application. As the vast majority utilize the term, it is a major business application. In today's professional environment, enterprise applications are complicated, versatile, appropriated, segment based, and mission-critical. They may be implemented on various platforms over corporate systems, intranets, or the Internet. They are information driven, easy to use, and must meet stringent prerequisites for security, organization, and support. 
 
 Planning and growing such enterprise applications means fulfilling hundreds or a great many separate prerequisites. Likewise, every improvement choice you make to fulfill every requirement influences many othe requirements, frequently in ways that are hard to comprehend.
@@ -9,4 +11,5 @@ Following are the four major guidelines that must be considered while developing
     4.  Open Standards/Open Source <br>
      
 For more information, Visit http://reviewsmspy.com
+</html>
      

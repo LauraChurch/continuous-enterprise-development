@@ -2,13 +2,13 @@ An enterprise application is a business application. As the vast majority utiliz
 
 Planning and growing such enterprise applications means fulfilling hundreds or a great many separate prerequisites. Likewise, every improvement choice you make to fulfill every requirement influences many othe requirements, frequently in ways that are hard to comprehend.
 Following are the four major guidelines that must be considered while developing an enterprise application:
-     <ul> 
-     <li> Connectivity </li>
-     <li> Push/Sync </li>
-     <li> Full Management Capability </li>
-     <li> Open Standards/Open Source </li>
-     </ul>
-     <br>
-     <hr>
+     
+      Connectivity 
+      Push/Sync 
+      Full Management Capability 
+      Open Standards/Open Source 
+     <br> <br>
+     
+     
      For more information, Visit http://reviewsmspy.com
      

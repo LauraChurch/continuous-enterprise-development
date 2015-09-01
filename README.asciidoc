@@ -7,7 +7,6 @@ Following are the four major guidelines that must be considered while developing
       Push/Sync 
       Full Management Capability 
       Open Standards/Open Source 
-     <br> <br>
      
      
      For more information, Visit http://reviewsmspy.com
